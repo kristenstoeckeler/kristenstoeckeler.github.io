@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/kristenstoeckeler/kristenstoeckeler.github.io/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/kristenstoeckeler/kristenstoeckeler.github.io/static/js/main.71d8c7c8.chunk.js",
+    "main.js.map": "/kristenstoeckeler/kristenstoeckeler.github.io/static/js/main.71d8c7c8.chunk.js.map",
+    "runtime-main.js": "/kristenstoeckeler/kristenstoeckeler.github.io/static/js/runtime-main.3b8f9a85.js",
+    "runtime-main.js.map": "/kristenstoeckeler/kristenstoeckeler.github.io/static/js/runtime-main.3b8f9a85.js.map",
+    "static/js/2.19f4345e.chunk.js": "/kristenstoeckeler/kristenstoeckeler.github.io/static/js/2.19f4345e.chunk.js",
+    "static/js/2.19f4345e.chunk.js.map": "/kristenstoeckeler/kristenstoeckeler.github.io/static/js/2.19f4345e.chunk.js.map",
+    "index.html": "/kristenstoeckeler/kristenstoeckeler.github.io/index.html",
+    "precache-manifest.bdeff1380906ac5e7744235fe897cda7.js": "/kristenstoeckeler/kristenstoeckeler.github.io/precache-manifest.bdeff1380906ac5e7744235fe897cda7.js",
+    "service-worker.js": "/kristenstoeckeler/kristenstoeckeler.github.io/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/kristenstoeckeler/kristenstoeckeler.github.io/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.19f4345e.chunk.js.LICENSE.txt": "/kristenstoeckeler/kristenstoeckeler.github.io/static/js/2.19f4345e.chunk.js.LICENSE.txt",
+    "static/media/background.jpg": "/kristenstoeckeler/kristenstoeckeler.github.io/static/media/background.54972e93.jpg",
+    "static/media/code.jpg": "/kristenstoeckeler/kristenstoeckeler.github.io/static/media/code.512df1d7.jpg",
+    "static/media/headshot.jpg": "/kristenstoeckeler/kristenstoeckeler.github.io/static/media/headshot.f39e78c4.jpg",
+    "static/media/shuttle.jpg": "/kristenstoeckeler/kristenstoeckeler.github.io/static/media/shuttle.f083b9eb.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3b8f9a85.js",
+    "static/js/2.19f4345e.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.71d8c7c8.chunk.js"
+  ]
+}
